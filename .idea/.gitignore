@@ -1,0 +1,6 @@
+echo bin/ > .gitignore
+echo *.exe >> .gitignore
+echo *.key >> .gitignore
+echo *.enc >> .gitignore
+echo private.key >> .gitignore
+echo public.key >> .gitignore
